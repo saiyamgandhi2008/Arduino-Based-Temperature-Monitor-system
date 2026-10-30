@@ -3,6 +3,6 @@ This project implements an embedded temperature sensing station that reads therm
 
 
 Links
-1.Live Simulation: Tinkercad Temp Sensor Project
+Live Simulation: https://www.tinkercad.com/things/gOnvJwQPKEi-temp-sensor-project?sharecode=8sa_9LBL1z1w-pZ1IF_A6X3ZiH2Y9Z7_XE5pOb1JMuI
 
-2.Full Documentation: Project Guide (Google Docs)
+Full Documentation: https://docs.google.com/document/d/1UqWXELwM-B8rDibpWuibhJDljtvzqYMOqZpTDiY-bGw/edit?usp=sharing
